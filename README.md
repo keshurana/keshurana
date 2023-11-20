@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://www.excelptp.com/wp-content/themes/excelptp-cms-new/assets/images/accomodation/rocket.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keshurana&label=Profile%20views&color=0e75b6&style=flat" alt="keshurana" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@keshurana77" target="blank"><img src="https://img.shields.io/twitter/follow/@keshurana77?logo=twitter&style=for-the-badge" alt="keshurana77" /></a> </p>
+<p align="left"> <a href="https://twitter.com/keshurana77" target="blank"><img src="https://img.shields.io/twitter/follow/keshurana77?logo=twitter&style=for-the-badge" alt="keshurana77" /></a> </p>
 
 - 📫 How to reach me **keshurana77@gmail.com**
 
