@@ -1,4 +1,4 @@
-![logo](https://github.com/keshurana/keshurana/blob/main/Front-End-Developer.png)
+![logo](https://github.com/keshurana/keshurana/assets/105442237/9d19d022-998a-4923-ac1f-27dead8aca1e)
 <h1 align="center">Hi 👋, I'm Kumar Keshav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.excelptp.com/wp-content/themes/excelptp-cms-new/assets/images/accomodation/rocket.gif"/>
